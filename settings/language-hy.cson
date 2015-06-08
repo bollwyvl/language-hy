@@ -1,0 +1,7 @@
+'.source.hy':
+  'editor':
+    'autoIndentOnPaste': false
+    'softTabs': true
+    'tabLength': 2
+    'foldEndPattern': '^\\s*"""\\s*$'
+    'commentStart': ';; '

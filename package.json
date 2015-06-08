@@ -1,19 +1,19 @@
 {
-  "name": "language-python",
-  "version": "0.35.0",
+  "name": "language-hy",
+  "version": "0.1.0",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "description": "Python language support in Atom",
-  "homepage": "https://atom.github.io/language-python",
+  "description": "Hy language support in Atom",
+  "homepage": "https://atom.github.io/language-hy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-python.git"
+    "url": "https://github.com/bollwyvl/language-hy.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-python/issues"
+    "url": "https://github.com/bollwyvl/language-hy/issues"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
